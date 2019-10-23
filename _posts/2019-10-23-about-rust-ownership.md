@@ -1,6 +1,6 @@
 ---
 title: 'About rust ownership'
-date: 2012-08-14
+date: 2019-10-23
 permalink: 
 tags:
   - rust
