@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Notmeor"
+title                    : "Notmeor-test"
 title_separator          : "-"
 name                     : &name "Notmeor"
 description              : &description "Rustacian"
